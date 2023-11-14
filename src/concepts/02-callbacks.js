@@ -44,3 +44,4 @@ const findHero = ( id, callback ) => {
 
     callback( null, hero );
 }
+
